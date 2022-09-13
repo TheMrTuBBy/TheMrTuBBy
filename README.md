@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheMrTuBBy
-- 👀 I’m an computer specialist.
+- 👀 I’m doing PC stuff.
 
 <!---
 TheMrTuBBy/TheMrTuBBy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
